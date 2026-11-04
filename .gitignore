@@ -1,0 +1,17 @@
+.venv*/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+esco-sbert/
+esco-sbert-test/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+ESCO dataset*/
+ESCO dataset*.zip
+training_pairs.csv
