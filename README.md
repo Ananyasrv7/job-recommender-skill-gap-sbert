@@ -29,3 +29,4 @@ Trained model weights and the ESCO dataset are not included because of file size
 
 ## Author
 Ananya Srivastava
+Shivam Mittal
