@@ -28,5 +28,5 @@ Evaluation charts (accuracy, precision, recall, F1, ROC curve, confusion matrix)
 Trained model weights and the ESCO dataset are not included because of file size.
 
 ## Author
-Ananya Srivastava
-Shivam Mittal
+1.Ananya Srivastava
+2.Shivam Mittal
